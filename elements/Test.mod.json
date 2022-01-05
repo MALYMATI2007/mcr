@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Test",
+    "icon": {
+      "value": "Blocks.RED_BED"
+    },
+    "showSearch": false
+  }
+}
